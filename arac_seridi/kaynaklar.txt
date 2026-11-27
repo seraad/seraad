@@ -9,3 +9,6 @@ ic_ice: boreal_1 https://media.renault.com/wp-content/uploads/2026/06/d579e51d98
 ic_ice: striker2_0 https://media.dacia.com/wp-content/uploads/2026/10/c99664a02947e84db2cdc702ea5af7bc.jpg
 ic_ice: striker_11 https://media.dacia.com/wp-content/uploads/2026/07/6fc2f0e4e4bc9ca36eed1b3260fe770c.jpg
 Ölçüler: Clio 6 basın kiti (4116x1768x1451), Boreal basın kiti (4556x1841x1650 tavan barlı), Dacia Striker teknik çizimi (4620x1824x1525, 4x2)
+ic_ice: dd1_174 https://media.dacia.com/wp-content/uploads/2024/01/55183ba1d7426fd2e1024a10d4ed8830.jpg
+ic_ice: duster_7 https://media.renault.com/wp-content/uploads/2025/07/33402bcd26da88340268394a7b7d537e.jpg
+Duster ölçüleri: Renault Duster basın kiti, Ocak 2026 (4343x1813x1659, aks 2657) - son nesil Dacia Duster (CMF-B) ile aynı ölçüler; yan görünüm Dacia Duster basın fotoğrafından
