@@ -8,3 +8,4 @@
 | clio-press.jpg | [Renault basın sitesi – New Renault Clio](https://media.renault.com/new-renault-clio-the-superpowered-hatch/?lang=eng) | © Renault, basın görseli |
 | boreal-press.jpg | [Renault basın sitesi – Boreal, Türkiye üretimi ve full hybrid E-Tech](https://media.renault.com/boreal-enters-a-new-phase-with-a-2nd-production-hub-in-turkiye-and-the-introduction-of-full-hybrid-etech-powertrain/?lang=eng) | © Renault, basın görseli |
 | clio-yan.jpg | [Renault basın sitesi – New Renault Clio](https://media.renault.com/new-renault-clio-the-superpowered-hatch/?lang=eng) | © Renault, basın görseli |
+| duster-press.jpg | [Renault basın sitesi – New Renault Duster](https://media.renault.com/new-renault-duster-reinventing-the-spirit-of-adventure/?lang=eng) | © Renault, basın görseli |
