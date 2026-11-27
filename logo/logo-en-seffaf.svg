@@ -7,7 +7,7 @@
 <linearGradient id="drop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bfe9ff"/><stop offset="1" stop-color="#5cbcf0"/></linearGradient>
 <linearGradient id="bolt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe45c"/><stop offset="1" stop-color="#f5b800"/></linearGradient>
 </defs>
-<rect width="640" height="300" fill="#1f3fb4"/>
+
 <!-- lines -->
 <line x1="120" y1="72" x2="560" y2="92" stroke="#7f9cff" stroke-width="4" stroke-linecap="round"/>
 <line x1="95" y1="200" x2="540" y2="222" stroke="#7f9cff" stroke-width="4" stroke-linecap="round"/>
@@ -21,7 +21,7 @@
 <!-- highlight -->
 <path d="M62 150 Q60 126 78 100" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" opacity=".9"/>
 <!-- name -->
-<text x="148" y="178" font-family="KS" font-size="104" fill="#ffffff" stroke="#0b1a45" stroke-width="9" paint-order="stroke" stroke-linejoin="round" transform="rotate(2 148 178)">AquaVolt</text>
+<text x="148" y="178" font-family="KS" font-size="78" fill="#ffffff" stroke="#0b1a45" stroke-width="9" paint-order="stroke" stroke-linejoin="round" transform="rotate(2 148 178)">PowerDrop</text>
 <!-- number -->
 <text x="410" y="252" font-family="PP" font-weight="600" font-size="50" fill="#ffffff" stroke="#0b1a45" stroke-width="3" paint-order="stroke" letter-spacing="2" transform="rotate(2 410 252)">30</text>
 <!-- bolt -->
