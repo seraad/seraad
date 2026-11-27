@@ -2,3 +2,10 @@ clio_16 https://media.renault.com/wp-content/uploads/2025/09/d55f2b1964774f127e5
 boreal2_0 https://media.renault.com/wp-content/uploads/2025/07/f6a468645703ad078bec115697db3bd8.jpg
 duster_0 https://media.renault.com/wp-content/uploads/2025/07/0c14e975d4aaad4a22e5d74338eef2cd.jpg
 striker_18 https://media.dacia.com/wp-content/uploads/2026/07/36989a0282676e2370674107ec5943f6.jpg
+ic_ice: clio_17 https://media.renault.com/wp-content/uploads/2025/09/a309382de167f93cd16987c9a1b66906.jpg
+ic_ice: clio_18 https://media.renault.com/wp-content/uploads/2025/09/4bdda91d79c0073cb7a2205a337ed38c.jpg
+ic_ice: boreal2_3 https://media.renault.com/wp-content/uploads/2025/07/949e17e01c441855dfcf8c9c10e60f53.jpg
+ic_ice: boreal_1 https://media.renault.com/wp-content/uploads/2026/06/d579e51d9848cfe1847fbb0487554546.jpg
+ic_ice: striker2_0 https://media.dacia.com/wp-content/uploads/2026/10/c99664a02947e84db2cdc702ea5af7bc.jpg
+ic_ice: striker_11 https://media.dacia.com/wp-content/uploads/2026/07/6fc2f0e4e4bc9ca36eed1b3260fe770c.jpg
+Ölçüler: Clio 6 basın kiti (4116x1768x1451), Boreal basın kiti (4556x1841x1650 tavan barlı), Dacia Striker teknik çizimi (4620x1824x1525, 4x2)
