@@ -9,3 +9,4 @@
 | boreal-press.jpg | [Renault basın sitesi – Boreal, Türkiye üretimi ve full hybrid E-Tech](https://media.renault.com/boreal-enters-a-new-phase-with-a-2nd-production-hub-in-turkiye-and-the-introduction-of-full-hybrid-etech-powertrain/?lang=eng) | © Renault, basın görseli |
 | clio-yan.jpg | [Renault basın sitesi – New Renault Clio](https://media.renault.com/new-renault-clio-the-superpowered-hatch/?lang=eng) | © Renault, basın görseli |
 | duster-press.jpg | [Renault basın sitesi – New Renault Duster, the SUV sensation (2024, Türkiye/Bursa üretimi model)](https://media.renault.com/new-renault-duster-the-suv-sensation/?lang=eng) | © Renault Design, basın görseli |
+| duster-ustten-katman.jpg | [Dacia basın sitesi – More Duster still Duster (2024)](https://media.dacia.com/more-duster-still-duster-2/?lang=eng); plaka ve ızgara logosu sadeleştirildi, kaputa katmanlar eklendi | © Dacia, basın görseli |
