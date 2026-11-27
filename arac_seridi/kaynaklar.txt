@@ -13,3 +13,4 @@ ic_ice: dd1_174 https://media.dacia.com/wp-content/uploads/2024/01/55183ba1d7426
 ic_ice: duster_7 https://media.renault.com/wp-content/uploads/2025/07/33402bcd26da88340268394a7b7d537e.jpg
 Duster ölçüleri: Renault Duster basın kiti, Ocak 2026 (4343x1813x1659, aks 2657) - son nesil Dacia Duster (CMF-B) ile aynı ölçüler; yan görünüm Dacia Duster basın fotoğrafından
 ic_ice (3D): Clio 6 ve Duster çizimleri kullanıcının verdiği STL modellerinden dik izdüşümle üretildi (STL dosyaları repoya eklenmedi). Clio: tekerlekler şematik, model göbek merkezlerine yerleştirildi. Duster: model eksen bazında resmi ölçülere ölçeklendi (uzunluk x1, genişlik/yükseklik ~%12 küçültüldü), anten çıkarıldı.
+Boreal önden (blueprint): Renault basın karesi boreal2_5 çapraz olduğu için kameraya uzak yarı, ön yüz ve cam/tavan katmanları ayrı eksenlerden aynalanarak simetrik yeniden kurgulandı; aynadan aynaya resmi 2082 mm'ye, yükseklik 1650 mm'ye oturtuldu. Plaka aynalanmadan geri konuldu.
